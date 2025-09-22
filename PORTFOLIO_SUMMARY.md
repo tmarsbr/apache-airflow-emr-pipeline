@@ -156,8 +156,8 @@ S3 Source → Processamento → S3 Optimized
 
 ---
 
-**Contato**: tiago.dev@exemplo.com  
+**Contato**: tiagomars233@gmail.com
 **GitHub**: https://github.com/tmarsbr/apache-airflow-emr-pipeline  
-**LinkedIn**: [Perfil Profissional]
+**LinkedIn**: [in/tiagodados]
 
 *"Este projeto representa 100% de hands-on experience com tecnologias de ponta em Data Engineering, demonstrando capacidade de entregar soluções robustas e escaláveis em produção."*
