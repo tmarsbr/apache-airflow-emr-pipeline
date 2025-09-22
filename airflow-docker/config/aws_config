@@ -1,0 +1,11 @@
+[default]
+region = sa-east-1
+output = json
+
+[profile dev]
+region = sa-east-1
+output = json
+
+[profile prod]
+region = us-east-1
+output = json
