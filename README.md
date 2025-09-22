@@ -312,10 +312,10 @@ aws s3 cp s3://bucket/emr-logs/cluster/containers/stderr.gz - | gunzip
 
 ## 📞 Contato
 
-**Desenvolvedor**: Tiago  
-**LinkedIn**: [seu-linkedin](https://linkedin.com/in/seu-perfil)  
+**Desenvolvedor**: Tiago Silva  
+**LinkedIn**: [seu-linkedin](https://linkedin.com/in/tiagodados)  
 **Email**: seu-email@exemplo.com  
-**GitHub**: [seu-usuario](https://github.com/seu-usuario)
+**GitHub**: [seu-usuario](https://github.com/tmarsbr)
 
 ---
 
